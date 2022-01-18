@@ -2,17 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Chae Won> <Kim>
+  email:             <chaewonkim@kaist.ac.kr>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    I am currently a Masters student at IVY Lab of the Korean Advanced Institute of Science and Technology (KAIST)
+    under Professor Yong Man Ro. My interests are Deep Learning, Knitting, and Yoga!
 
   # This photo will be used in the about section
   picture:
@@ -26,9 +23,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    # twitter:         <username>
+    github:          <ckimmmy>
+    email:           <chaewonkim@kaist.ac.kr>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
