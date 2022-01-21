@@ -2,11 +2,17 @@
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
 layout: grid
 
+# The type of the page.
+type: category
+
 # The title of the tag's page.
 title: Example
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: example
+
+# Whether the category should be displayed on the sidebar.
+sidebar: true
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
