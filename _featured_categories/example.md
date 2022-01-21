@@ -14,6 +14,9 @@ slug: example
 # Whether the category should be displayed on the sidebar.
 sidebar: true
 
+# Order of the category on the sidebar.
+order: 2
+
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
   This is a featured category, which have their own page.
