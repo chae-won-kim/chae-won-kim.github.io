@@ -1,6 +1,7 @@
 ---
 layout: welcome
 title: Welcome to my humble abode 🏡
+cover: true
 sitemap: false
 ---
 
