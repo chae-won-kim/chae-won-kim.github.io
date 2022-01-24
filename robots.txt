@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Disallow: /private/
+Sitemap: http://chae-won-kim.github.io/sitemap.xml
