@@ -10,7 +10,7 @@ selected_posts:
 Hi, I'm **Chae Won Kim**.<br><br>
 I am currently a Master's student at the Electrical Engineering Department, [Korea Advanced Institute of Science and Technology] (KAIST) and researching at the [Image and Video Systems Lab], advised by Professor Yong Man Ro. <br><br>
 
-I'm interested in deep learning (specifically in multimodal learning), knitting, boxing. <br>
+I'm interested in deep learning (specifically in multimodal learning), knitting, and boxing. <br>
 Check out my [resume] if you're still interested in me!
 
 ## Recent Posts
@@ -18,7 +18,7 @@ Check out my [resume] if you're still interested in me!
 ---
 
 Blog created by Chae Won Kim <br> 
-based on the jekyll theme [Hydejack] and inspired by [LazyRen].
+based on the jekyll theme [Hydejack] and many kudos to [LazyRen] for amazing blog features!
 
 ***
 
