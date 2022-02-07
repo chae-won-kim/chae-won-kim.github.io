@@ -6,7 +6,7 @@ tags: miracle
 description: >
   Howdy! Hop on to join me on my miracle morning journey!
 image: /assets/img/blog/personal/miraclemornings/miracle-morning.jpg
-sitemap: false
+sitemap: true
 ---
 
 Today was my first **official** day of the miracle morning challenge. I’ve been waking up early to do basic morning routines, but I was unaware of the life S.A.V.E.R.S mentioned in the [miracle morning book](https://miraclemorning.com/). Now that I finally took the time to finish the book and write down my life purpose and affirmations, I went through the full routine. I actually haven’t planned out what book I’m going to read (I thought it could be any book, but it’s supposed to be a self-development book...), so life S.A.V.E.S for today. Good enough. 😁
