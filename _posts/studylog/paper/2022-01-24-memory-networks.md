@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Example Content
+title: Memory Networks
 category: studylog
-tags: algorithm
+tags: paper iclr memory
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-sitemap: false
+  This is a paper review on the paper "Memory Networks", published as a conference paper at ICLR 2015, by Jason Weston, Sumit Chopra, and Antoine Bordes.
+sitemap: true
 hide_last_modified: true
 ---
 
