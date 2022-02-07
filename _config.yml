@@ -136,10 +136,10 @@ defaults:
       sitemap:         false
 
   # Don't include site verification file(for google) in the sitemap
-- scope:
-    path:            googleb62ddbc8aecc8d71.html
-  values:
-    sitemap:         true
+  - scope:
+      path:            googleb62ddbc8aecc8d71.html
+    values:
+      sitemap:         true
 
 
   # # You can use the following to enable comments on all posts.
