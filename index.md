@@ -2,7 +2,9 @@
 layout: welcome
 title: Welcome to my humble abode 🏡
 cover: true
-sitemap: false
+sitemap: true
+selected_posts:
+  - _posts/personal/miraclemornings/2022-02-07-journey-begins.md
 ---
 
 Hi, I'm **Chae Won Kim**.<br><br>
@@ -12,12 +14,8 @@ I'm interested in deep learning (specifically in multimodal learning), knitting,
 Check out my [resume] if you're still interested in me!
 
 ## Recent Posts
-
----
-
 <!--posts-->
-
-***
+---
 
 Blog created by Chae Won Kim <br> 
 based on the jekyll theme [Hydejack] and inspired by [LazyRen].
