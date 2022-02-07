@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://chae-won-kim.github.io/sitemap.xml
+Sitemap: https://chae-won-kim.github.io/sitemap.xml
