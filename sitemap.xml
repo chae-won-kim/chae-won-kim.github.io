@@ -1,19 +1,47 @@
----
-layout:
-permalink: /sitemap.xml
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-{% for post in site.posts %}{% if post.id contains "404" %}{% else %}<url>
-<loc>{{ site.url }}{{ site.baseurl }}{{ post.url }}</loc>
-{% assign versions=site.posts | where:"ref", post.ref %}{% for version in versions %}<xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{ site.url }}{{ site.baseurl }}{{ version.url }}" />{% endfor %}
-<lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-<changefreq>weekly</changefreq>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://chae-won-kim.github.io/</loc>
+  <lastmod>2022-02-07T06:17:02+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
-{% endif %}{% endfor %}{% for page in site.pages %}{% if page.id contains "404" %}{% else %}<url>
-<loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
-{% assign versions=site.pages | where:"ref", page.ref %}{% for version in versions %}<xhtml:link rel="alternate" hreflang="{{ version.lang }}" href="{{ site.url }}{{ site.baseurl }}{{ version.url }}" />{% endfor %}
-<changefreq>weekly</changefreq>
-</url>{% endif %}{% endfor %}
+<url>
+  <loc>https://chae-won-kim.github.io/tag-travel/</loc>
+  <lastmod>2022-02-07T06:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chae-won-kim.github.io/tag-miracle/</loc>
+  <lastmod>2022-02-07T06:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chae-won-kim.github.io/tag-paper/</loc>
+  <lastmod>2022-02-07T06:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chae-won-kim.github.io/tags/</loc>
+  <lastmod>2022-02-07T06:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chae-won-kim.github.io/resume/</loc>
+  <lastmod>2022-02-07T06:17:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://chae-won-kim.github.io/blog/</loc>
+  <lastmod>2022-02-07T06:17:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>

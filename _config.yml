@@ -139,7 +139,7 @@ defaults:
 - scope:
     path:            googleb62ddbc8aecc8d71.html
   values:
-    sitemap:         false
+    sitemap:         true
 
 
   # # You can use the following to enable comments on all posts.
