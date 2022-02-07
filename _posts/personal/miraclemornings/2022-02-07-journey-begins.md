@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journey Begins
+title: Beginning My Miracle Morning Journey
 category: personal
 tags: miracle
 description: >
