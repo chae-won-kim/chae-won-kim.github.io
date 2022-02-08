@@ -17,16 +17,9 @@ Check out my [resume] if you're still interested in me!
 <!--posts-->
 ---
 
-Blog created by Chae Won Kim <br> 
-based on the jekyll theme [Hydejack] and many kudos to [LazyRen] for amazing blog features!
-
-***
-
 <!--author-->
 
 <!-- Links -->
 [Korea Advanced Institute of Science and Technology]: https://www.kaist.ac.kr/en/
 [resume]: /resume/
-[Hydejack]: https://hydejack.com
-[LazyRen]: https://lazyren.github.io/
 [Image and Video Systems Lab]: http://ivylab.kaist.ac.kr/default/
