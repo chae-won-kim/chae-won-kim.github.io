@@ -22,25 +22,25 @@ I am a Ph.D. student at the Electrical Engineering Department, [Korea Advanced I
 
 - **TroL: Traversal of Layers for Large Language and Vision Models**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Sangyun Chung, Chae Won Kim, Beomchan Park, Yong Man Ro  
+&nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Sangyun Chung, <u>Chae Won Kim</u>, Beomchan Park, Yong Man Ro  
 &nbsp;&nbsp;&nbsp;&nbsp;Preparation for EMNLP 2024
 
 
 - **Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Chae Won Kim, Beomchan Park, Yong Man Ro  
+&nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, <u>Chae Won Kim</u>, Beomchan Park, Yong Man Ro  
 &nbsp;&nbsp;&nbsp;&nbsp;Preparation for NeurIPS 2024
 
 
 - **MoAI: Mixture of All Intelligence for Large Language and Vision Models**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Beomchan Park, Chae Won Kim, Yong Man Ro  
+&nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Beomchan Park, <u>Chae Won Kim</u>, Yong Man Ro  
 &nbsp;&nbsp;&nbsp;&nbsp;European Conference on Computer Vision (ECCV), 2024
 
 
 - **CoLLaVO: Crayon Large Language and Vision mOdel**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Beomchan Park, Chae Won Kim, Yong Man Ro  
+&nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Beomchan Park, <u>Chae Won Kim</u>, Yong Man Ro  
 &nbsp;&nbsp;&nbsp;&nbsp;Findings of the Association for Computational Linguistics (ACL), 2024
 
 - **Let's Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation**
