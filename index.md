@@ -8,11 +8,10 @@ selected_posts:
 <!--author-->
 
 <!-- Links -->
-[Korea Advanced Institute of Science and Technology]: https://www.kaist.ac.kr/en/
 [resume]: /resume/
 [Integrated Vision & Language Lab]: https://www.ivllab.kaist.ac.kr/
 
-I am a Ph.D. student at the Electrical Engineering Department, [Korea Advanced Institute of Science and Technology] (KAIST) researching at the [Integrated Vision & Language Lab], advised by Professor Yong Man Ro. I'm interested in multimodal learning, especially human multimodal tasks and vision-language models. <br>
+I am a Ph.D. student at the Electrical Engineering Department, Korea Advanced Institute of Science and Technology (KAIST) researching at the [Integrated Vision & Language Lab], advised by Professor Yong Man Ro. I'm interested in multimodal learning, especially human multimodal tasks and vision-language models. <br>
 
 
 
@@ -23,42 +22,39 @@ I am a Ph.D. student at the Electrical Engineering Department, [Korea Advanced I
 - **TroL: Traversal of Layers for Large Language and Vision Models**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Sangyun Chung, <u>Chae Won Kim</u>, Beomchan Park, Yong Man Ro  
-&nbsp;&nbsp;&nbsp;&nbsp;Preparation for EMNLP 2024
-
+&nbsp;&nbsp;&nbsp;&nbsp;Preparation for EMNLP 2024    **\[[paper](https://arxiv.org/abs/2406.12246)\] | \[[code](https://github.com/ByungKwanLee/TroL)\]**
 
 - **Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, <u>Chae Won Kim</u>, Beomchan Park, Yong Man Ro  
-&nbsp;&nbsp;&nbsp;&nbsp;Preparation for NeurIPS 2024
-
+&nbsp;&nbsp;&nbsp;&nbsp;Preparation for NeurIPS 2024    **\[[paper](https://arxiv.org/abs/2405.15574)\] | \[[code](https://github.com/ByungKwanLee/Meteor)\]**
 
 - **MoAI: Mixture of All Intelligence for Large Language and Vision Models**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Beomchan Park, <u>Chae Won Kim</u>, Yong Man Ro  
-&nbsp;&nbsp;&nbsp;&nbsp;European Conference on Computer Vision (<span style="color:rgb(72, 133, 224)">**ECCV**</span>), 2024
-
+&nbsp;&nbsp;&nbsp;&nbsp;European Conference on Computer Vision (<span style="color:rgb(72, 133, 224)">**ECCV**</span>), 2024    **\[[paper](https://arxiv.org/abs/2403.07508)\] | \[[code](https://github.com/ByungKwanLee/MoAI)\]**
 
 - **CoLLaVO: Crayon Large Language and Vision mOdel**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Beomchan Park, <u>Chae Won Kim</u>, Yong Man Ro  
-&nbsp;&nbsp;&nbsp;&nbsp;Findings of the Association for Computational Linguistics (<span style="color:rgb(72, 133, 224)">**ACL**</span>), 2024
+&nbsp;&nbsp;&nbsp;&nbsp;Findings of the Association for Computational Linguistics (<span style="color:rgb(72, 133, 224)">**ACL**</span>), 2024    **\[[paper](https://arxiv.org/abs/2402.11248)\] | \[[code](https://github.com/ByungKwanLee/CoLLaVO)\]**
 
 - **Let's Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Se Jin Park*,<u> Chae Won Kim*</u>, Hyeongseop Rha, Minsu Kim, Joanna Hong, Jeonghun Yeo, Yong Man Ro 
-&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the Annual Meeting of the Association for Computational Linguistics (<span style="color:rgb(72, 133, 224)">**ACL**</span>) <span style="color:rgb(224, 72, 72)">**Oral**</span>, 2024
+&nbsp;&nbsp;&nbsp;&nbsp;Se Jin Park\*, <u>Chae Won Kim</u>\*, Hyeongseop Rha, Minsu Kim, Joanna Hong, Jeonghun Yeo, Yong Man Ro 
+&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the Annual Meeting of the Association for Computational Linguistics (<span style="color:rgb(72, 133, 224)">**ACL**</span>) <span style="color:rgb(224, 72, 72)">**Oral**</span>, 2024    **\[[paper](https://arxiv.org/pdf/2406.07867)\] | \[[data](https://huggingface.co/datasets/IVLLab/MultiDialog)\] | \[[demo](https://multidialog.github.io/)\]**
 
 - **Persona Extraction Through Semantic Similarity for Emotional Support Conversation Generation**  
 
 &nbsp;&nbsp;&nbsp;&nbsp;Seunghee Han, Se Jin Park, <u>Chae Won Kim</u>, Yong Man Ro  
-&nbsp;&nbsp;&nbsp;&nbsp;IEEE International Conference on Acoustics, Speech and Signal Processing (<span style="color:rgb(72, 133, 224)">**ICASSP**</span>), 2024
+&nbsp;&nbsp;&nbsp;&nbsp;IEEE International Conference on Acoustics, Speech and Signal Processing (<span style="color:rgb(72, 133, 224)">**ICASSP**</span>), 2024    **\[[paper](https://arxiv.org/abs/2403.04212)\]**
 
 ### 2023
 
 - **Deep visual forced alignment: learning to align transcription with talking face video**  
 
 &nbsp;&nbsp;&nbsp;&nbsp;Minsu Kim, <u>Chae Won Kim</u>, Yong Man Ro  
-&nbsp;&nbsp;&nbsp;&nbsp;AAAI Conference on Artificial Intelligence (<span style="color:rgb(72, 133, 224)">**AAAI**</span>), 2023
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI Conference on Artificial Intelligence (<span style="color:rgb(72, 133, 224)">**AAAI**</span>), 2023    **\[[paper](https://arxiv.org/abs/2303.08670)\]**
 
 ## Education
 
