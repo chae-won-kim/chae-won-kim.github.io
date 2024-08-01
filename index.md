@@ -42,7 +42,7 @@ I am a Ph.D. student at the Electrical Engineering Department, Korea Advanced In
 - **Let's Go Real Talk: Spoken Dialogue Model for Face-to-Face Conversation**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Se Jin Park\*, <u>Chae Won Kim</u>\*, Hyeongseop Rha, Minsu Kim, Joanna Hong, Jeonghun Yeo, Yong Man Ro 
-&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the Annual Meeting of the Association for Computational Linguistics (<span style="color:rgb(72, 133, 224)">**ACL**</span>) <span style="color:rgb(224, 72, 72)">**Oral**</span>, 2024
+&nbsp;&nbsp;&nbsp;&nbsp;Proceedings of the Annual Meeting of the Association for Computational Linguistics (<span style="color:rgb(72, 133, 224)">**ACL**</span>) <span style="color:rgb(224, 72, 72)">**Oral**</span>, 2024  
 &nbsp;&nbsp;&nbsp;&nbsp;**\[[paper](https://arxiv.org/pdf/2406.07867)\] | \[[data](https://huggingface.co/datasets/IVLLab/MultiDialog)\] | \[[demo](https://multidialog.github.io/)\]**
 
 - **Persona Extraction Through Semantic Similarity for Emotional Support Conversation Generation**  
