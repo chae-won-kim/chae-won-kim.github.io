@@ -19,10 +19,15 @@ I am a Ph.D. student at the Electrical Engineering Department, Korea Advanced In
 
 ### 2024
 
+- **Phantom of Latent for Large Language and Vision Models**
+
+&nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Sangyun Chung, <u>Chae Won Kim</u>, Beomchan Park, Yong Man Ro  
+&nbsp;&nbsp;&nbsp;&nbsp;Preparation for ICLR 2025    **\[[paper](https://arxiv.org/abs/2409.14713)\] | \[[code](https://github.com/ByungKwanLee/Phantom)\]**
+
 - **TroL: Traversal of Layers for Large Language and Vision Models**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, Sangyun Chung, <u>Chae Won Kim</u>, Beomchan Park, Yong Man Ro  
-&nbsp;&nbsp;&nbsp;&nbsp;Preparation for EMNLP 2024    **\[[paper](https://arxiv.org/abs/2406.12246)\] | \[[code](https://github.com/ByungKwanLee/TroL)\]**
+&nbsp;&nbsp;&nbsp;&nbsp;Empirical Methods in Natural Language Processing (<span style="color:rgb(72, 133, 224)">**EMNLP**</span>), 2024    **\[[paper](https://arxiv.org/abs/2406.12246)\] | \[[code](https://github.com/ByungKwanLee/TroL)\]**
 
 - **Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**
 
