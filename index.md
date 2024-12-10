@@ -17,6 +17,13 @@ I am a Ph.D. student at the Electrical Engineering Department, Korea Advanced In
 
 ## Publications
 
+### 2025
+
+- **Personalized Lip Reading: Adapting to Your Unique Lip Movements with Vision and Language**
+
+&nbsp;&nbsp;&nbsp;&nbsp;Jeong Hun Yeo, <u>Chae Won Kim</u>, Hyunjun Kim, Hyeongseop Rha, Seunghee Han, Wen-Huang Cheng, Yong Man Ro
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI Conference on Artificial Intelligence (<span style="color:rgb(72, 133, 224)">**AAAI**</span>), 2025    **\[[paper](https://arxiv.org/abs/2409.00986)\] | \[[code](https://github.com/JeongHun0716/Personalized-Lip-Reading)\]**
+
 ### 2024
 
 - **Phantom of Latent for Large Language and Vision Models**
@@ -32,7 +39,7 @@ I am a Ph.D. student at the Electrical Engineering Department, Korea Advanced In
 - **Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Byung-Kwan Lee, <u>Chae Won Kim</u>, Beomchan Park, Yong Man Ro  
-&nbsp;&nbsp;&nbsp;&nbsp;Preparation for NeurIPS 2024    **\[[paper](https://arxiv.org/abs/2405.15574)\] | \[[code](https://github.com/ByungKwanLee/Meteor)\]**
+&nbsp;&nbsp;&nbsp;&nbsp;Conference on Neural Information Processing Systems (<span style="color:rgb(72, 133, 224)">**NeurIPS**</span>), 2024    **\[[paper](https://arxiv.org/abs/2405.15574)\] | \[[code](https://github.com/ByungKwanLee/Meteor)\]**
 
 - **MoAI: Mixture of All Intelligence for Large Language and Vision Models**
 
