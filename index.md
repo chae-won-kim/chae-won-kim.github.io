@@ -15,7 +15,7 @@ I am a Ph.D. student at the Electrical Engineering Department, Korea Advanced In
 
 
 
-## Publications
+# Publications
 
 ### 2025
 
@@ -70,7 +70,7 @@ I am a Ph.D. student at the Electrical Engineering Department, Korea Advanced In
 &nbsp;&nbsp;&nbsp;&nbsp;Minsu Kim, <u>Chae Won Kim</u>, Yong Man Ro  
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI Conference on Artificial Intelligence (<span style="color:rgb(72, 133, 224)">**AAAI**</span>), 2023    **\[[paper](https://arxiv.org/abs/2303.08670)\]**
 
-## Education
+# Education
 
 - Korea Advanced Institute of Science and Technology (KAIST), South Korea  (2023 - Present)  
 &nbsp;Ph.D in Electrical Engineering (advisor: Prof. Yong Man Ro) 
@@ -83,7 +83,18 @@ I am a Ph.D. student at the Electrical Engineering Department, Korea Advanced In
 
 - George Walton Comprehensive High School, U.S.  (2012 - 2016)
 
-## Work Experience
+
+## Teaching Experience 
+
+- EE474 Introduction to Multimedia, KAIST (2024 Spring)  
+- EE305 Introduction to Electronics Design Lab, KAIST (2023 Fall)
+
+## Review Experience 
+
+- IEEE Transactions on Circuits and Systems for Video Technology
+- CVPR 2024
+
+# Work Experience
 
 - Software Intern at **Samsung Electronics**  
 &nbsp;Jan 2021 - Feb 2021
@@ -91,9 +102,5 @@ I am a Ph.D. student at the Electrical Engineering Department, Korea Advanced In
 - Engineer Intern at **SK Hynix**  
 &nbsp;Jun 2019 - Aug 2019
 
-## Teaching Experience 
-
-- EE474 Introduction to Multimedia, KAIST (2024 Spring)  
-- EE305 Introduction to Electronics Design Lab, KAIST (2023 Fall)
 
 <!-- Check out my [resume]! -->
